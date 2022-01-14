@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-       System.out.println("Clase Main hecha");
+       System.out.println("Clase Main ");
 
     }
 }
